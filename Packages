@@ -1,0 +1,13 @@
+Package: neofetch
+Version: 7.8910-vanastar
+Architecture: all
+Maintainer: Sean Benware <enterthevoidx86@gmail.com>
+Filename: ./neofetch.deb
+Size: 111148
+MD5sum: 304c0e38e350c6fd55afca8e4c536d6d
+SHA1: c906e9d51170e826a67bce3adeef7f8a2331134a
+SHA256: 56d17bb21c1ce43d51cafa9920792f62af7ea687b8ad55aadab3424666646c53
+Section: utils
+Priority: optional
+Description: Neofetch is a command-line system information tool written in bash 3.2+.
+
