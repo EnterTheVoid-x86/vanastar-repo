@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://enterthevoidx86.github.io/vanastar-repo ./
+deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://enterthevoid-x86.github.io/vanastar-repo ./
