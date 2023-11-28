@@ -24,6 +24,19 @@ Section: fonts
 Priority: optional
 Description: DM Sans is a low-contrast geometric sans serif design, intended for use at smaller text sizes.
 
+Package: grub-poly-theme
+Version: 6.23
+Architecture: all
+Maintainer: Sean Benware <enterthevoidx86@gmail.com>
+Filename: ./grub-poly-theme.deb
+Size: 1494060
+MD5sum: 24d9c061f9a649d67e677970d4dfc755
+SHA1: da04d67331d974527813404b4175bbfe048cb9ed
+SHA256: 4a1c9488d8a0f572d47ba7eb636d6881385fad007c2e1c4eacb08fcadee36f33
+Section: misc
+Priority: optional
+Description: Poly theme for GRUB
+
 Package: neofetch
 Version: 7.8910-vanastar
 Architecture: all
@@ -36,4 +49,18 @@ SHA256: 56d17bb21c1ce43d51cafa9920792f62af7ea687b8ad55aadab3424666646c53
 Section: utils
 Priority: optional
 Description: Neofetch is a command-line system information tool written in bash 3.2+.
+
+Package: vanastar-themes
+Version: 0.6
+Architecture: all
+Maintainer: Sean Benware <enterthevoidx86@gmail.com>
+Depends: dm-sans | papirus-icon-theme | plasma-desktop
+Filename: ./vanastar-themes.deb
+Size: 9504512
+MD5sum: 7b04a868fc1004d7e62d460652dce74f
+SHA1: adaba9565ffc1f8d30646694fa4acd8ef12374c8
+SHA256: d750398ff91eaecc566306945770d48734b943ddc6cf40e4749402ea990a89cd
+Section: misc
+Priority: optional
+Description: KDE themes included in Vanastar
 
