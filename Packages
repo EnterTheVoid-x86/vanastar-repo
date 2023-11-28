@@ -1,3 +1,16 @@
+Package: fonts-dm-sans
+Version: 1.0
+Architecture: all
+Maintainer: Sean Benware <enterthevoidx86@gmail.com>
+Filename: ./dm-sans.deb
+Size: 774096
+MD5sum: 10afc5ef1f3fb2b3b6acc334297556d6
+SHA1: 00850995e3b224c0c2409b06d8d28d022afd481c
+SHA256: 4198a8c6cbf0523bf1032cf6dccfce49840db467bb1b028092bcea0fe3f7faaf
+Section: fonts
+Priority: optional
+Description: DM Sans is a low-contrast geometric sans serif design, intended for use at smaller text sizes.
+
 Package: neofetch
 Version: 7.8910-vanastar
 Architecture: all
@@ -10,4 +23,17 @@ SHA256: 56d17bb21c1ce43d51cafa9920792f62af7ea687b8ad55aadab3424666646c53
 Section: utils
 Priority: optional
 Description: Neofetch is a command-line system information tool written in bash 3.2+.
+
+Package: vanastar-osversioning
+Version: 1.0
+Architecture: all
+Maintainer: Sean Benware <enterthevoidx86@gmail.com>
+Filename: ./vanastar-osversioning.deb
+Size: 900
+MD5sum: b74890a0482d8c0feffd9d0b41f93699
+SHA1: 7da54a10e2a674022f931c63684a97659a015f83
+SHA256: 13ac6096d5d6529cc004791dacb6ee9d9821722fdeede20c819956c3e1777744
+Section: utils
+Priority: optional
+Description: OS branding for vanastar
 
