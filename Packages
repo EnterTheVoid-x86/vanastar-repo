@@ -1,3 +1,16 @@
+Package: base-files
+Version: 24.0-vanastar
+Architecture: all
+Maintainer: Sean Benware <enterthevoidx86@gmail.com>
+Filename: ./base-files.deb
+Size: 68656
+MD5sum: 950dc1883b1a98d00fff9c0a5d0ffc3e
+SHA1: bb2842a36b7cca6e7bac934363e036ac3fdbdb7b
+SHA256: 371f1a8a84cb0e303b2ab636458995c73de48276e2ebdb8cdaa06a3bc651ad77
+Section: essential
+Priority: optional
+Description: OS base files for vanastar
+
 Package: fonts-dm-sans
 Version: 1.0
 Architecture: all
@@ -23,17 +36,4 @@ SHA256: 56d17bb21c1ce43d51cafa9920792f62af7ea687b8ad55aadab3424666646c53
 Section: utils
 Priority: optional
 Description: Neofetch is a command-line system information tool written in bash 3.2+.
-
-Package: vanastar-osversioning
-Version: 1.0
-Architecture: all
-Maintainer: Sean Benware <enterthevoidx86@gmail.com>
-Filename: ./vanastar-osversioning.deb
-Size: 924
-MD5sum: 9beb9256af817a423cfc9d7c79d03978
-SHA1: d2a30d13047e499c4207e8cbab3884c89bcd051b
-SHA256: 20b1335d211d00fd6513baec13e2930fee39626853421ad60b0fb57a1841ea8b
-Section: utils
-Priority: optional
-Description: OS branding for vanastar
 
